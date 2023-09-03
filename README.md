@@ -2,7 +2,11 @@
 
 ## Showcase
 
+- Demo:
+
   https://github.com/nhatkhang169/movies/assets/1230519/bc71a079-dc13-44b3-b1e9-36a0832680ae
+
+- Coverage: 92.4% ![unit-test-coverage-92-percent](https://github.com/nhatkhang169/movies/assets/1230519/e6310990-6821-452f-8014-961849bd4456)
 
 
 ## Software principles, patterns and practices:
