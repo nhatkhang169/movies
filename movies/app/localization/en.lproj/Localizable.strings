@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  movies
+
+  Created by azun on 29/08/2023.
+  
+*/
+
+"Movies.Title" = "Movies";
+"Movies.Button.Sort" = "Sort";
+"Movies.SortBy.Title" = "Title";
+"Movies.SortBy.ReleasedDate" = "Released Date";
+"Movies.SortBy.Cancel" = "Cancel";
+"Movies.Label.OnMyWatchList" = "ON MY WATCHLIST";
+
+"MovieDetail.Button.AddToWatchList" = "· ADD TO WATCHLIST";
+"MovieDetail.Button.RemoveFromWatchList" = "REMOVE FROM WATCHLIST";
+"MovieDetail.Button.WatchTrailer" = "WATCH TRAILER";
+"MovieDetail.ShortDesc" = "Short description";
+"MovieDetail.Details" = "Details";
+"MovieDetail.Genre" = "Genre";
+"MovieDetail.ReleaseDate" = "Released date";
+
+"MovieTrailer.Button.Exit" = "Exit";
+
+"Genre.Action" = "Action";
+"Genre.SF" = "Sci-Fi";
+"Genre.Animation" = "Animation";
+"Genre.Adventure" = "Adventure";
+"Genre.Comedy" = "Comedy";
+"Genre.Crime" = "Crime";
+"Genre.Drama" = "Drama";
+
+"Duration.Hour" = "h";
+"Duration.Minute" = "min";

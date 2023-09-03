@@ -1,0 +1,10 @@
+strings:
+  inputs: ../../app/localization/en.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: ../../app/localization/generated/Strings.swift
+xcassets:
+  inputs: ../../app/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: ../../app/localization/generated/Assets.swift
